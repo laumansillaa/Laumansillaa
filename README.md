@@ -38,6 +38,13 @@
 </div>
 
 <div>
+  <h4> Proyectos: </h4>
+  <p> | Crypto Wallet App | </p>
+ </div>
+
+[![Crypto Wallet App](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c865297b-c5c8-4897-8882-096902aeec83.gif?ClientID=vimeo-core-prod&Date=1644879860&Signature=d5ac600c8267b44f9b6b1dcac132b55120668cc7)](https://vimeo.com/677424926 "Little red riding hood - Click to Watch!")
+
+<div>
   <h2 align= "center" >CONTACTAME ! 🤝 👇 </h2>  
   <a href= "https://www.linkedin.com/in/lautaro-mansilla/" ><img src= "https://cdn.icon-icons.com/icons2/2037/PNG/128/in_linked_linkedin_media_social_icon_124259.png" width= "80"></a>
   <a href= "mailto:mansillaalau@gmail.com"><img src= "https://cdn.icon-icons.com/icons2/2631/PNG/128/gmail_new_logo_icon_159149.png" width= "80"></a>

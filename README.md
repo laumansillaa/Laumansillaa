@@ -42,7 +42,7 @@
   <p align= "center"> | Crypto Wallet App | </p>
 
 
-[![Crypto Wallet App](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c865297b-c5c8-4897-8882-096902aeec83.gif?ClientID=vimeo-core-prod&Date=1644879860&Signature=d5ac600c8267b44f9b6b1dcac132b55120668cc7)](https://vimeo.com/677424926 "Little red riding hood - Click to Watch!")
+[![Crypto Wallet App](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c865297b-c5c8-4897-8882-096902aeec83.gif?ClientID=vimeo-core-prod&Date=1644879860&Signature=d5ac600c8267b44f9b6b1dcac132b55120668cc7)](https://vimeo.com/677424926 "Crypto Wallet App - Click to Watch!")
 
    </div>
 

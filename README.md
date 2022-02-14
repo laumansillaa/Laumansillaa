@@ -46,16 +46,16 @@
 
    </div>
 
-<div>
+<div align= "center">
   <h2 align= "center" >CONTACTAME ! 🤝 👇 </h2>  
-  <a href= "https://www.linkedin.com/in/lautaro-mansilla/" ><img src= "https://cdn.icon-icons.com/icons2/2037/PNG/128/in_linked_linkedin_media_social_icon_124259.png" width= "80"></a>
+  <a href= "https://www.linkedin.com/in/lautaro-mansilla/"><img src= "https://cdn.icon-icons.com/icons2/2037/PNG/128/in_linked_linkedin_media_social_icon_124259.png" width= "80"></a>
   <a href= "mailto:mansillaalau@gmail.com"><img src= "https://cdn.icon-icons.com/icons2/2631/PNG/128/gmail_new_logo_icon_159149.png" width= "80"></a>
   <a href= "https://wa.me/542215062415"><img src= "https://cdn.icon-icons.com/icons2/373/PNG/128/Whatsapp_37229.png" width= "80"/>
 </div>
 
 
 
-<div>
+<div align= "center">
   <h2 align= "center">ESTADICTS</h2>
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=laumansillaa&layout=compact" align= "center"/>
   

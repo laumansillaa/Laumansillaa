@@ -11,8 +11,7 @@
 <div>
 <h2 align= "center" >LENGUAJE Y HABILIDADES</H2>
 <p>
-  • Javascript • TypeScript • Git • React.js • Redux • HTML • CSS • NodeJs • Express • Postman • PostgreSQL • Sequelize • RoR
-</p>
+  • Javascript • TypeScript • Git • React.js • Redux • HTML • CSS • NodeJs • Express • Postman • PostgreSQL • Sequelize • RoR • Ionic</p>
 
   <div>
     <img src= "https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" width="75"/>
@@ -28,6 +27,7 @@
     <img src= "https://cdn.icon-icons.com/icons2/2667/PNG/128/folder_postgres_icon_161286.png" width="75"/>
     <img src= "https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_sqlite_icon_130153.png" width="75"/>  
     <img src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png" width="75" />
+    <img src= "https://cdn.icon-icons.com/icons2/2415/PNG/512/ionic_original_wordmark_logo_icon_146463.png" width="75" />
   </div>
   
   <div>
